@@ -4,7 +4,7 @@ using System.Text;
 
 namespace University
 {
-    public class AllLocation
+    public class Allocation
     {
         public Student Student;
         public Course Course;
